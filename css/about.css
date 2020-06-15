@@ -1,0 +1,30 @@
+header{
+    margin:40px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding:10px;
+       }
+
+       .lambda-banner{
+        display:flex;
+        justify-content: space-evenly;
+        align-items: left;
+       }
+
+    header .container nav .nav-item{
+            display:flex; 
+            justify-content: space-evenly;
+            align-items: space-between;
+            flex-direction: row; 
+            text-decoration: none;
+            display: inline-block;
+            padding: 35px;
+            color: black;
+            margin-top: 70px;
+                }
+                .banner-photo{
+                    margin: 50px;
+                    padding: 25px;
+                    display: flex;
+                    flex-wrap: wrap;}
